@@ -1,1 +1,2 @@
 # NMproject
+a=5
